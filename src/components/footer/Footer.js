@@ -16,7 +16,7 @@ export default () => {
                 <a href='/' alt='Instagram'>
                     <InstagramIcon className='footer--icon' />
                 </a>
-                <a href='/' alt='LinkedIn'>
+                <a href='https://www.linkedin.com/in/david-lucas-mendes-92b755231/' target='_blank' alt='LinkedIn'>
                     <LinkedInIcon className='footer--icon' />
                 </a>
                 <a href='/' alt='GitHub'>
