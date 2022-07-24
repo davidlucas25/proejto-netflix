@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #141414;
+    padding: 10px 0px
+}
+
+
+.footer--left{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer--icon {
+    font-size: 45px !important;
+    margin: 0px 10px;
+    color: #FFF;
+}
